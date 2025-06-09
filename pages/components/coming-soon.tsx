@@ -1,6 +1,6 @@
 import React from 'react';
 import Lottie from 'lottie-react';
-import animationData from '../public/animations/work-in-progress.json';
+import animationData from '../../animations/work-in-progress.json';
 
 export default function ComingSoon() {
   return (
